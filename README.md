@@ -2,7 +2,7 @@
 
 ## Financial & Business Data Analyst
 
-**Excel | Power BI | Financial Analysis | Business Insights**
+**Microsoft Excel 365 | Mircorsoft Power BI | Microsoft SQL  | Financial Analysis | Business Insights**
 
 I am an experienced finance and accounting professional with **25+ years of professional experience**, now combining my financial expertise with modern **Data Analytics, Business Intelligence, and AI automation** skills.
 
